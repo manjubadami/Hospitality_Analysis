@@ -37,7 +37,7 @@ The development of these analytical views required both analytical rigor and cre
 
 ## Live Dashboard
 
-The interactive dashboard can be accessed [Live dashboard] (https://app.powerbi.com/view?r=eyJrIjoiNDExN2ZmOGQtZWZlYS00MmYxLWE0MjYtNDc5YzdmY2E4N2RiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+The interactive dashboard can be accessed [Live dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDExN2ZmOGQtZWZlYS00MmYxLWE0MjYtNDc5YzdmY2E4N2RiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 
