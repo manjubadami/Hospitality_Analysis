@@ -29,7 +29,7 @@ The project leveraged the following skills and technologies:
 - **Data Visualization:** Interactive dashboards were developed using Power BI to effectively communicate key findings.
 - **Revenue Analysis:** Comprehensive analysis of revenue-related metrics was conducted to identify trends and opportunities.
 - **Technical Proficiency:** Power BI and DAX were utilized for data modeling, transformation, and analysis.
-- **Industry Terminology:** A strong understanding of hospitality industry terminology, including ADR, DSRN (Daily Sales Report Number), DBRN (Daily Booking Report Number),
+- **Industry Terminology:** A strong understanding of hospitality industry terminology, including ADR, DSRN (Daily Sellable Room Nights), DBRN (Daily Booked Room Nights),
 RevPAR, and other relevant metrics, was essential to the project's success.
 
 The development of these analytical views required both analytical rigor and creative problem-solving to extract meaningful insights and formulate effective recommendations.
